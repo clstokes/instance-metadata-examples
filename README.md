@@ -8,6 +8,7 @@ An archive of example instance metadata from various cloud providers.
 
 ```
 amazon
+google
 ```
 
 ### How was this obtained?
